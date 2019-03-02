@@ -2,44 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b4a2ae5-9a19-48d6-a0e5-d9a17e006ff6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Calendar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/CheckboxSelectComponent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/DialogUpdatePhoto.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ImageUpload.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Registration.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/checkbox_select_component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/dialog_update_photo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/imageupload.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icons/banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icons/belarus (2).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icons/belarus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icons/kazach.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icons/logotip.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icons/maxresdefault.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icons/noavatar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icons/ukraine.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/4_6012340699796604199.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/ShabbatEvent.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/family.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/old-people-couple-together-connected.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/people-mother-family-father.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/pexels-photo-106936.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/pexels-photo-173666.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/pexels-photo-251808.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/pexels-photo-286625.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/pexels-photo-302083.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/pexels-photo-341378.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/pexels-photo-821529.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/water-fight-children-water-play-51349.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Calendar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Calendar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Registration.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Registration.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -53,10 +21,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/index.html">
+        <entry file="file://$PROJECT_DIR$/src/App.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="39" column="7" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
+            <state relative-caret-position="397">
+              <caret line="48" column="2" selection-start-line="48" selection-start-column="2" selection-end-line="48" selection-end-column="2" />
+              <folding>
+                <marker date="1551374197777" expanded="true" signature="536:591" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -64,7 +35,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/ImageUpload.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
+            <state relative-caret-position="1122">
               <caret line="67" column="27" selection-start-line="67" selection-start-column="27" selection-end-line="67" selection-end-column="27" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
@@ -115,11 +86,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Calendar.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+            <state relative-caret-position="221">
+              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -133,23 +107,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/Registration.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="96" column="31" selection-start-line="96" selection-start-column="31" selection-end-line="96" selection-end-column="31" />
+            <state relative-caret-position="34">
+              <caret line="41" column="42" selection-start-line="41" selection-start-column="42" selection-end-line="41" selection-end-column="42" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/CheckboxSelectComponent.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -173,16 +138,16 @@
         <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/src/css/checkbox_select_component.css" />
-        <option value="$PROJECT_DIR$/src/components/CheckboxSelectComponent.js" />
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/components/imageUpload.js" />
-        <option value="$PROJECT_DIR$/src/App.css" />
         <option value="$PROJECT_DIR$/src/css/imageupload.css" />
         <option value="$PROJECT_DIR$/src/components/ImageUpload.js" />
         <option value="$PROJECT_DIR$/src/css/dialog_update_photo.css" />
         <option value="$PROJECT_DIR$/src/components/DialogUpdatePhoto.js" />
-        <option value="$PROJECT_DIR$/src/components/Registration.js" />
         <option value="$PROJECT_DIR$/src/components/Calendar.js" />
+        <option value="$PROJECT_DIR$/src/App.css" />
+        <option value="$PROJECT_DIR$/src/components/CheckboxSelectComponent.js" />
+        <option value="$PROJECT_DIR$/src/components/Registration.js" />
       </list>
     </option>
   </component>
@@ -198,7 +163,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -228,22 +192,11 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="19_02_19_mishpa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="19_02_19_mishpa" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="icons" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="19_02_19_mishpa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="19_02_19_mishpa" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -305,15 +258,25 @@
       <workItem from="1550604461666" duration="22462000" />
       <workItem from="1550687313792" duration="56213000" />
       <workItem from="1551080873093" duration="5380000" />
-      <workItem from="1551253414378" duration="2223000" />
+      <workItem from="1551253414378" duration="7528000" />
+      <workItem from="1551369956639" duration="8342000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit with registration">
+      <created>1551256807322</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1551256807322</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86278000" />
+    <option name="totallyTimeSpent" value="99925000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info id="npm" order="1" side_tool="true" />
@@ -321,11 +284,11 @@
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49925596" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50074404" side_tool="true" weight="0.3289689" />
-      <window_info anchor="bottom" id="Version Control" order="2" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" order="2" weight="0.3289689" />
       <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -337,6 +300,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit with registration" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit with registration" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/App.test.js">
@@ -376,17 +343,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="62" selection-start-line="4" selection-start-column="62" selection-end-line="4" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="663">
           <caret line="39" column="7" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="48" column="2" selection-start-line="48" selection-start-column="2" selection-end-line="48" selection-end-column="2" />
+          <folding>
+            <marker date="1551374197777" expanded="true" signature="536:591" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/ImageUpload.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="67" column="27" selection-start-line="67" selection-start-column="27" selection-end-line="67" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -414,13 +394,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/checkbox_select_component.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -431,17 +404,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/CheckboxSelectComponent.js">
+    <entry file="file://$PROJECT_DIR$/src/components/Calendar.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="45" />
+        <state relative-caret-position="221">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/ImageUpload.js">
+    <entry file="file://$PROJECT_DIR$/src/css/checkbox_select_component.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="67" column="27" selection-start-line="67" selection-start-column="27" selection-end-line="67" selection-end-column="27" />
+        <state relative-caret-position="102">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/CheckboxSelectComponent.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="50" column="26" lean-forward="true" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -450,18 +433,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Registration.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="96" column="31" selection-start-line="96" selection-start-column="31" selection-end-line="96" selection-end-column="31" />
+        <state relative-caret-position="34">
+          <caret line="41" column="42" selection-start-line="41" selection-start-column="42" selection-end-line="41" selection-end-column="42" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Calendar.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
         </state>
       </provider>
     </entry>

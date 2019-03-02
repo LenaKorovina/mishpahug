@@ -11,20 +11,20 @@ body{
   background: linear-gradient(to top,  #FFEED9, #5f4f8d);
   /*background-color: #5f4f8d;*/
   color: white;
-  border: 10px solid white;
+  border: 2px solid white;
   border-radius: 5%;
 }
 .div2{
   margin-top: 1em;
   background: linear-gradient(to top,  #FFEED9, #5f4f8d);
   color: white;
-  border: 10px solid white;
+  border: 2px solid white;
   margin-left: 5px;
   border-radius: 5%;
 }
 .div3{
   margin-top: 1em;
-  background: linear-gradient(to top,  #FFEED9, #5f4f8d);
+  /*background: linear-gradient(to top,  #FFEED9, #5f4f8d);*/
   color: white;
 }
 .h1reg{
@@ -45,7 +45,7 @@ left: 1px;
 }
 
 .div3{
-  border: 10px solid white;
+  /*border: 2px solid white;*/
   margin-left: 5px;
   border-radius: 5%;
 }
