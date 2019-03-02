@@ -49,14 +49,14 @@ left: 1px;
   margin-left: 5px;
   border-radius: 5%;
 }
-img{
-  margin: 5px;
-  align-content: center;
-}
-div{
-  margin-top: 1em;
-  margin-bottom: 1em;
-}
+/*img{*/
+  /*margin: 5px;*/
+  /*align-content: center;*/
+/*}*/
+/*div{*/
+  /*margin-top: 1em;*/
+  /*margin-bottom: 1em;*/
+/*}*/
 .btn.btn-primary{
   border-radius: 10%;
   border: 1px solid white;

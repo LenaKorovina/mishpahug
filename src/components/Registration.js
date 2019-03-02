@@ -7,6 +7,8 @@ import CheckboxSelectComponent from "./CheckboxSelectComponent";
 import ImageUpload from "./ImageUpload";
 import DialogUpdatePhoto from "./DialogUpdatePhoto";
 import Calendar from "./Calendar";
+import Main from './Main';
+import LogIn from './RegistrationForm';
 
 const baseUrl = "https://mishpahug-java221-team-a.herokuapp.com";
 const email = "vasya@gmail.com";
@@ -159,7 +161,9 @@ class Registration extends React.Component {
                     </div>
                     <ImageUpload/>
                     {/*<DialogUpdatePhoto/>*/}
-                    <Calendar/>
+                    {/*<Calendar/>*/}
+                    <LogIn/>
+
                 </div>
 
             </div>

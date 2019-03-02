@@ -1,0 +1,36 @@
+body {
+    background-image: url("../images/pexels-photo-251808.jpeg");
+    background-size: cover;
+}
+
+.shab img{
+    position: absolute;
+    margin: 20px 0 0 60px;
+    width: 1200px; height: 600px;
+    border: solid white 1px;
+    z-index: 3;
+
+}
+.logo img{
+    width: 500px; height: 200px;
+    margin: 0px 0px 100px -80px;
+    background-size: cover;
+    z-index: 1;
+}
+.btndsgn {
+    display: inline-block;
+    color: white;
+    background: rgba(255,255,255,.2);
+    font-weight: 700;
+    text-decoration: none;
+    user-select: none;
+    padding: .5em 2em;
+    outline: none;
+    border: 2px solid;
+    border-radius: 30px;
+    transition: 0.2s;
+}
+
+*{
+
+}
