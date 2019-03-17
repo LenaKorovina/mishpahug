@@ -53,10 +53,10 @@ left: 1px;
   /*margin: 5px;*/
   /*align-content: center;*/
 /*}*/
-/*div{*/
-  /*margin-top: 1em;*/
-  /*margin-bottom: 1em;*/
-/*}*/
+.margined{
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
 .btn.btn-primary{
   border-radius: 10%;
   border: 1px solid white;
