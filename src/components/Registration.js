@@ -9,14 +9,14 @@ import DialogUpdatePhoto from "./DialogUpdatePhoto";
 import Calendar from "./Calendar";
 // import Main from './Main';
 // import LogIn from './RegistrationForm';
-import Homepage from './IgorProject/Homepage/Homepage';
-import '../components/IgorProject/Homepage/homepageStyle.css';
-import CheckboxSelectComponentIgor from '../components/IgorProject/List/CheckboxSelectComponentIgor';
-import List from '../components/IgorProject/List/List';
-import '../components/IgorProject/List/listStyle.css';
-import Main from './IgorProject/Main/Main';
-import '../components/IgorProject/Main/mainStyle.css';
-import Request from './IgorProject/Request';
+// import Homepage from './IgorProject/Homepage/Homepage';
+// import '../components/IgorProject/Homepage/homepageStyle.css';
+// import CheckboxSelectComponentIgor from '../components/IgorProject/List/CheckboxSelectComponentIgor';
+// import List from '../components/IgorProject/List/List';
+// import '../components/IgorProject/List/listStyle.css';
+// import Main from './IgorProject/Main/Main';
+// import '../components/IgorProject/Main/mainStyle.css';
+// import Request from './IgorProject/Request';
 
 const baseUrl = "https://mishpahug-java221-team-a.herokuapp.com";
 const email = "vasya@gmail.com";
@@ -173,10 +173,10 @@ class Registration extends React.Component {
                     {/*<DialogUpdatePhoto/>*/}
                     <Calendar/>
 
-                    <List/>
-                    <Homepage/>
-                    <CheckboxSelectComponentIgor/>
-                    <Main/>
+                    {/*<List/>*/}
+                    {/*<Homepage/>*/}
+                    {/*<CheckboxSelectComponentIgor/>*/}
+                    {/*<Main/>*/}
                     {/*<Request/>*/}
 
                     {/*<LogIn/>*/}
